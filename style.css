@@ -1,0 +1,43 @@
+body{
+    font-family: "Merriweather";
+    text-align: center;
+    background-color: rgb(82, 111, 172);
+}
+form{
+    font-size: 30px;
+}
+button{
+    background-color: rgb(28, 29, 124);
+    color: aliceblue;
+    font-size: 20px;
+    margin: 10px;
+    padding: 20px 30px;
+    font-style: 16px;
+    border-radius: 30px;
+    font-family: "Merriweather";
+    border-color: rgb(28, 29, 124);
+}
+button:hover{
+    background-color: rgb(40, 76, 153);
+    color: rgb(0, 0, 0);
+}
+#resultado{
+    color: rgb(28, 29, 124);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Merriweather"
+}
+label{
+    color: rgb(28, 29, 124);
+    font-size: 30px;
+    font-family: "Merriweather"
+}
+h1{
+    color: rgb(28, 29, 124);
+    font-size: 40px;
+    font-weight: 200px;
+    font-family: "Merriweather"
+}
+.mamis{
+    height: 800px;
+}
